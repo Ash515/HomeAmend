@@ -24,7 +24,7 @@ the remedies for our pain. By this application we can find out the proper treatm
 ## Licence
 [MIT](https://github.com/Ash515/HomeAmend/blob/master/LICENSE)
 
-## Developer
+## Developer ❤
 [Ashwin Kumar R](https://github.com/Ash515)
 
 
