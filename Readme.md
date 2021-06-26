@@ -22,7 +22,7 @@ the remedies for our pain. By this application we can find out the proper treatm
 [Click here](https://drive.google.com/file/d/1qUIVY2J7F_Rqlt3JYn8pgorSTKmlPWH3/view?usp=sharing)
 
 ## Licence
-[MIT]()
+[MIT](https://github.com/Ash515/HomeAmend/blob/master/LICENSE)
 
 ## Developer
 [Ashwin Kumar R](https://github.com/Ash515)
