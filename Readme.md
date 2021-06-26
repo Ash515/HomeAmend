@@ -15,5 +15,8 @@ the remedies for our pain. By this application we can find out the proper treatm
 - HTML, CSS, Vennila JavaScript
 
 ## Image Results
-<>
+<img src="/Image Results/img1.png" width="450px"><img src="/Image Results/img2.png" width="450px">
+<img src="/Image Results/img3.png" width="450px"><img src="/Image Results/img5.png" width="450px">
+
+
 
