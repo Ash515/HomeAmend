@@ -21,7 +21,7 @@ function solution(){
         document.getElementById('textarea').value=vomit_sol;
     }
      else if(a=='Acidity'){
-        acidity_sol="Eat some jaggery, Lemon.Dont eat junk foods.";
+        acidity_sol="Eat some jaggery, Lemon.Dont eat junk foods.😚";
         document.getElementById('textarea').value=acidity_sol;
     }
 }
