@@ -14,6 +14,9 @@ the remedies for our pain. By this application we can find out the proper treatm
 ## Tech Stacks
 - HTML, CSS, Vennila JavaScript
 
+## Website
+[HomeAmend](https://ash515.github.io/HomeAmend/)
+
 ## Image Results
 <img src="/Image Results/img1.png" width="400px"><img src="/Image Results/img2.png" width="400px">
 <img src="/Image Results/img3.png" width="400px"><img src="/Image Results/img5.png" width="400px">
