@@ -24,4 +24,8 @@ function solution(){
         acidity_sol="Eat some jaggery, Lemon.Dont eat junk foods. 😚";
         document.getElementById('textarea').value=acidity_sol;
     }
+    else if(a=='Tooth Pain'){
+        toothpain_sol="Drink some hot water.Wash your mouth with salt. keep ginger piece or salt at the infection part 😁";
+        document.getElementById('textarea').value=toothpain_sol;
+    }
 }
