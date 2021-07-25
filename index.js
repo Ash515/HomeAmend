@@ -28,7 +28,7 @@ function solution(){
         toothpain_sol="Drink some hot water.Wash your mouth with salt. keep ginger piece or salt at the infection part 😁";
         document.getElementById('textarea').value=toothpain_sol;
     }
-     else if(a=='hairfall'){
+     else if(a=='Hairfall'){
         hairfall_sol="Dont make your head to dry and apply some pure coconut oil or ginglly oil";
         document.getElementById('textarea').value=hairfall_sol;
     }
