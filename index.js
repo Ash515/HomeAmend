@@ -32,4 +32,9 @@ function solution(){
         hairfall_sol="Dont make your head to dry and apply some pure coconut oil or ginglly oil";
         document.getElementById('textarea').value=hairfall_sol;
     }
+    else if(a=='Eye Irritation'){
+        eyeirritate_sol="Drink some cool juices, coconut and apply oil in your head. Dont see Television, Mobile phones, Laptops etc.";
+        document.getElementById('textarea').value=eyeirritate_sol;
+    }
+    
 }
