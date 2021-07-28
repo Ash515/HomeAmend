@@ -29,7 +29,7 @@ function solution(){
         document.getElementById('textarea').value=toothpain_sol;
     }
      else if(a=='Hairfall'){
-        hairfall_sol="Dont make your head to dry and apply some pure coconut oil or ginglly oil";
+        hairfall_sol="Dont make your head to dry and apply some pure coconut oil or ginglly oil 🌟";
         document.getElementById('textarea').value=hairfall_sol;
     }
     else if(a=='Eye Irritation'){
