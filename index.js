@@ -33,11 +33,11 @@ function solution(){
         document.getElementById('textarea').value=hairfall_sol;
     }
     else if(a=='Eye Irritation'){
-        eyeirritate_sol="Drink some cool juices, coconut and apply oil in your head. Dont see Television, Mobile phones, Laptops etc.";
+        eyeirritate_sol="Drink some cool juices, coconut and apply oil in your head. Dont see Television, Mobile phones, Laptops etc.😉";
         document.getElementById('textarea').value=eyeirritate_sol;
     }
      else if(a=='Obisity'){
-        obisity_sol="Eat limited food dont eat junks and oil rich food. Excersise daily and do cycling.";
+        obisity_sol="Eat limited food dont eat junks and oil rich food. Excersise daily and do cycling.⚽";
         document.getElementById('textarea').value=obisity_sol;
     }
 }
