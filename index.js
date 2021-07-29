@@ -40,4 +40,8 @@ function solution(){
         obisity_sol="Eat limited food dont eat junks and oil rich food. Excersise daily and do cycling.⚽";
         document.getElementById('textarea').value=obisity_sol;
     }
+       else if(a=='Pimple'){
+        pimple_sol="Dont eat oil rich foods, clean your face regularly with cool or hot water.";
+        document.getElementById('textarea').value=pimple_sol;
+    }
 }
