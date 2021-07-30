@@ -44,4 +44,12 @@ function solution(){
         pimple_sol="Dont eat oil rich foods, clean your face regularly with cool or hot water.";
         document.getElementById('textarea').value=pimple_sol;
     }
+     else if(a=='Loosemotion'){
+        loosemotion_sol=" taking anti-diarrheal medications. consuming more fiber.staying hydrated.Adding honey to your diet. Avoiding food and drinks that are triggers.Taking anti-diarrheal medications.";
+        document.getElementById('textarea').value=loosemotion_sol;
+    }
+    
+    
+    
+
 }
