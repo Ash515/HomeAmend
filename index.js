@@ -50,6 +50,6 @@ function solution(){
     }
      else if(a=='Diabetes'){
         diabetes_sol="Dont eat Egg and red meat. Dont take more sugar content rich foods. Eat blueberry and whaet rich cookies.";
-        document.getElementById('textarea').value=loosemotion_sol;
+        document.getElementById('textarea').value=diabetes_sol;
     }
  }
